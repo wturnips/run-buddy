@@ -70,3 +70,13 @@ footer a {
 section {
     padding: 60px;
 }
+
+/* hero style start */
+.hero {
+    background-image: url(https://raw.githubusercontent.com/wturnips/run-buddy/main/assets/images/hero-bg.jpeg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+/* hero style end */
+
