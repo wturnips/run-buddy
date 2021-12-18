@@ -71,12 +71,30 @@ section {
     padding: 60px;
 }
 
-/* hero style start */
+/* Hero Style Start */
 .hero {
     background-image: url(https://raw.githubusercontent.com/wturnips/run-buddy/main/assets/images/hero-bg.jpeg);
     height: 600px;
     background-size: cover;
     background-position: center;
+    position: relative;
 }
-/* hero style end */
+/* Hero Style End */
 
+.hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+}
+
+.hero-form {
+    border: solid 3px #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+    position: absolute;
+    bottom: 120;
+    right: 140;
+}
